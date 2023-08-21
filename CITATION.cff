@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ambikan"
+  given-names: "Anoop"
+- family-names: "The Systems Virology Lab"
+  given-names: "Karolinska Institutet"
+title: "CCHF_GSMM"
+version: 1.0.0
+date-released: 2017-12-18
+url: "https://github.com/neogilab/CCHF_GSMM"
