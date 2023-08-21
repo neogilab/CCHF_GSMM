@@ -3,7 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Ambikan"
   given-names: "Anoop"
-title: "Codes used in analysing CCHF RNASeq and Proteomics data"
-version: 1.0.0
-date-released: 2022-12-09
+title: neogilab/CCHF_GSMM: CCHF R Codes
+version: cchf v1
+doi: 10.5281/zenodo.8268766 
+date-released: 2023-08-21
 url: "https://github.com/neogilab/CCHF_GSMM"
