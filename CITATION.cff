@@ -5,5 +5,5 @@ authors:
   given-names: "Anoop"
 title: "Codes used in analysing CCHF RNASeq and Proteomics data"
 version: 1.0.0
-date-released: 2017-12-18
+date-released: 2022-12-09
 url: "https://github.com/neogilab/CCHF_GSMM"
